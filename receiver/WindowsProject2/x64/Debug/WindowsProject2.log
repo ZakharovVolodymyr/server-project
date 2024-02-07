@@ -1,0 +1,9 @@
+﻿  WindowsProject2.cpp
+C:\!my\MyWindscribe\С гит хаба\receiver\WindowsProject2\WindowsProject2.cpp(76,53): warning C4267: аргумент: преобразование из "size_t" в "int"; возможна потеря данных
+C:\!my\MyWindscribe\С гит хаба\receiver\WindowsProject2\WindowsProject2.cpp(176,12): warning C4244: return: преобразование "WPARAM" в "int", возможна потеря данных
+C:\!my\MyWindscribe\С гит хаба\receiver\WindowsProject2\WindowsProject2.cpp(96,9): warning C4101: theadServer: неиспользованная локальная переменная
+C:\!my\MyWindscribe\С гит хаба\receiver\WindowsProject2\WindowsProject2.cpp(92,6): warning C4101: len: неиспользованная локальная переменная
+C:\!my\MyWindscribe\С гит хаба\receiver\WindowsProject2\WindowsProject2.cpp(98,7): warning C4101: buf: неиспользованная локальная переменная
+C:\!my\MyWindscribe\С гит хаба\receiver\WindowsProject2\WindowsProject2.cpp(97,9): warning C4101: theadServer2: неиспользованная локальная переменная
+C:\!my\MyWindscribe\С гит хаба\receiver\WindowsProject2\WindowsProject2.cpp(224,15): warning C4101: key: неиспользованная локальная переменная
+  WindowsProject2.vcxproj -> C:\!my\MyWindscribe\С гит хаба\receiver\x64\Debug\WindowsProject2.exe
